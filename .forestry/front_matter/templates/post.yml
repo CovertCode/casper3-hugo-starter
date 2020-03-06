@@ -23,3 +23,13 @@ fields:
 - type: file
   name: feature_image
   label: feature_image
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta Description
+  description: Meta Description
