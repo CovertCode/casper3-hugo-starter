@@ -33,3 +33,5 @@ fields:
       format: markdown
   label: Meta Description
   description: Meta Description
+pages:
+- content/post/article-1.md
